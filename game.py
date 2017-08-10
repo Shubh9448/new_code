@@ -27,7 +27,7 @@ vocabulary = { "QUIT": "Q",
                "HILL": "2",
                "BUILDING": "3",
                "VALLEY": "4",
-               "FOREST": "5" }
+               "FOREST": "5"}
 
 loc = 1
 while True:
